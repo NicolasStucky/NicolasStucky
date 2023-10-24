@@ -54,4 +54,4 @@ Si quieres ponerte en contacto conmigo, puedes hacerlo a través de:
 ### ¡Happy coding! 🚀
 <br/>
 
-[![](https://komarev.com/ghpvc/?username=Argiiasd&color=000000)](https://github.com/Argiiasd?tab=repositories)
+[![](https://komarev.com/ghpvc/?username=Argiiasd&color=000000)](https://github.com/NicolasStucky)
