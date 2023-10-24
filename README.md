@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="1000" src="https://c4.wallpaperflare.com/wallpaper/868/284/966/landscape-mountains-sunset-snow-wallpaper-preview.jpg"/>
+    <img width="1000" src="[https://c4.wallpaperflare.com/wallpaper/868/284/966/landscape-mountains-sunset-snow-wallpaper-preview.jpg](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)"/>
 </div>
 
 # ¡Hola, soy Nicolas! 👋
