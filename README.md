@@ -13,7 +13,7 @@ Empecé a aprender por primera vez en soyHenry, donde me formé como Full-Stack 
 - HTML
 - CSS
 - React.js
-- Redux.js / Redux Toolkit
+- Redux.js 
 - SQL
 - PostgreSQL
 - Sequelize.js
