@@ -48,7 +48,7 @@ Estoy muy ansioso por encontrar mi primer puesto que me permita aprender mucho m
 
 Si quieres ponerte en contacto conmigo, puedes hacerlo a través de:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/nicolas-stucky-972b9827a)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]("www.linkedin.com/in/nicolas-stucky-972b9827a")
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](nicolastucky2005@gmail.com)
 
 ### ¡Happy coding! 🚀
